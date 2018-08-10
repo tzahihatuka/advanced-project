@@ -1,0 +1,18 @@
+c:\users\tzahi\documents\visual studio 2017\Projects\UIL\DAL\bin\Debug\DataResult.mdf
+c:\users\tzahi\documents\visual studio 2017\Projects\UIL\DAL\bin\Debug\DataResult_log.ldf
+c:\users\tzahi\documents\visual studio 2017\Projects\UIL\DAL\bin\Debug\DAL.dll
+c:\users\tzahi\documents\visual studio 2017\Projects\UIL\DAL\bin\Debug\DAL.pdb
+c:\users\tzahi\documents\visual studio 2017\Projects\UIL\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+c:\users\tzahi\documents\visual studio 2017\Projects\UIL\DAL\obj\Debug\DAL.dll
+c:\users\tzahi\documents\visual studio 2017\Projects\UIL\DAL\obj\Debug\DAL.pdb
+C:\Users\tzahi\documents\visual studio 2017\Projects\UIL\DAL\bin\Debug\BOL.dll
+C:\Users\tzahi\documents\visual studio 2017\Projects\UIL\DAL\bin\Debug\BOL.pdb
+D:\GitHub\C#\FindYourFiles\DAL\bin\Debug\DataResult.mdf
+D:\GitHub\C#\FindYourFiles\DAL\bin\Debug\DataResult_log.ldf
+D:\GitHub\C#\FindYourFiles\DAL\bin\Debug\DAL.dll
+D:\GitHub\C#\FindYourFiles\DAL\bin\Debug\DAL.pdb
+D:\GitHub\C#\FindYourFiles\DAL\bin\Debug\BOL.dll
+D:\GitHub\C#\FindYourFiles\DAL\bin\Debug\BOL.pdb
+D:\GitHub\C#\FindYourFiles\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\GitHub\C#\FindYourFiles\DAL\obj\Debug\DAL.dll
+D:\GitHub\C#\FindYourFiles\DAL\obj\Debug\DAL.pdb
